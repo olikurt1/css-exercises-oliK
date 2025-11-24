@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.firstEl{
+    background-color: black;
+    color:white;
+}
+
+.secondEl{
+    background-color:yellow;
+}
+
+.firstEl.secondEl{
+    font-size:28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
